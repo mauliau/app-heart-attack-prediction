@@ -3,7 +3,7 @@
 This is a Streamlit app that predicts the probability of a heart attack based on user health inputs.
 
 ## Demo
-👉 [Click here to try the app]([https://username-streamlit-app-name.streamlit.app](https://app-heart-attack-prediction-9zrqdemer6wavcvnxbotbc.streamlit.app/))
+👉 [Click here to try the app](https://app-heart-attack-prediction-9zrqdemer6wavcvnxbotbc.streamlit.app)
 
 ## Features
 - 28 input features (age, gender, blood pressure, cholesterol, etc.)
